@@ -44,12 +44,27 @@ local machine (folder)
 	- local repository --> store the files
 
 
+commands 
+--------
+git init
+git status --> red --> file is in working directory
+git add <fileName> --> file gets added to staging area
+git status --> green --> file is in staging area
+git commit -m "<type some message>" --> file gets added to local repository
+git status --> tree is clean
 
+working directory == local repository
 
+code --> local machine --> /Users/junaid/Desktop/gitDemoPy/.git/
+code --> remote repository -->server -->github -->https://github.com/junaid579/gitdemopy.git
 
+connection 
+----------
+git remote add origin https://github.com/junaid579/gitdemopy.git
 
-
-
+push code from local to remote
+-------------------------------
+git push origin master
 
 
 
