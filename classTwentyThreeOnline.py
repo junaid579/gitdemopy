@@ -65,12 +65,3 @@ git remote add origin https://github.com/junaid579/gitdemopy.git
 push code from local to remote
 -------------------------------
 git push origin master
-
-
-
-
-
-
-
-new line
-
