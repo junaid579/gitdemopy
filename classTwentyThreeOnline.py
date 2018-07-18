@@ -65,3 +65,24 @@ git remote add origin https://github.com/junaid579/gitdemopy.git
 push code from local to remote
 -------------------------------
 git push origin master
+
+git init
+git status
+git add <file>
+git commit -m "<message>"
+git push origin master
+
+
+dev19 --> change --> pushed --> remote repo --> mistake 
+previous version
+
+ROLL BACKS --> ???
+BRANCHES --> ??
+
+task 
+----
+watch video 
+make a folder in machine 
+make a github account --> remote repository
+tasks files --> folder 
+push --> remote repository
