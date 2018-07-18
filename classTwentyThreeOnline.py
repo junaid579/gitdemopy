@@ -86,3 +86,8 @@ make a folder in machine
 make a github account --> remote repository
 tasks files --> folder 
 push --> remote repository
+
+
+
+
+new line now --> master
